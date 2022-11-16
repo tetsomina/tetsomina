@@ -15,7 +15,7 @@ I am a Chemist with great deal of passion for programming <img src="https://medi
 - 🔭 I’m working as a Resaerch Scientist and contributing to medicinal chemistry research in oncology therapies.
 - 🌱 Exploring automation and computational chemmistry application in drug discovery.
 - ⚡ In my free time I analyse way too many FLACs and play video games.
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joseph-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/kakbar](https://www.linkedin.com/in/josephalmasri/))
+- 📫 How to reach me: &nbsp; [@twitter_handle](https://twitter.com/tetsomina) - tetsomina@memeware.net
 
 ---
 
