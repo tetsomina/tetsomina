@@ -1,12 +1,9 @@
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=tetsomina&style=flat-square&color=blue" alt=""></p>
-
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+
+<p align="center"><img src="https://komarev.com/ghpvc/?username=tetsomina&style=flat-square&color=blue" alt=""></p>
 
 ### :man_technologist: &nbsp;About Me :
 
@@ -15,7 +12,7 @@ I am a Chemist with great deal of passion for programming <img src="https://medi
 - 🔭 I’m working as a Resaerch Scientist and contributing to medicinal chemistry research in oncology therapies.
 - 🌱 Exploring automation and computational chemmistry application in drug discovery.
 - ⚡ In my free time I analyse way too many FLACs and play video games.
-- 📫 How to reach me: &nbsp; [@twitter_handle](https://twitter.com/tetsomina) - tetsomina@memeware.net
+- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/-tetsomina-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tetsomina) - tetsomina@memeware.net
 
 ---
 
