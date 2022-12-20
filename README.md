@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me:
 
-I am a Chemist with a great deal of passion for programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+Chemist with a great deal of passion for programming <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 🔭 I’m working as a Resaerch Scientist and contributing to medicinal chemistry research in oncology therapies.
 - 🌱 Exploring automation and computational chemistry applications in drug discovery.
