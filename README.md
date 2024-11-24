@@ -12,7 +12,6 @@ Chemist with a great deal of passion for programming <img src="https://media.gip
 - 🔭 I’m working as a Research Scientist, contributing to medicinal chemistry research in oncology and drug discovery therapies.
 - 🌱 Exploring automation and computational chemistry applications in drug discovery.
 - ⚡ In my free time I analyse way too many FLACs and play video games.
-- 📫 How to reach me: &nbsp; [![Twitter Badge](https://img.shields.io/badge/-tetsomina-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/tetsomina) - tetso@memeware.net
 
 ---
 
